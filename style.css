@@ -1,0 +1,65 @@
+.logo{
+    width: 95%;
+    height: 85%;
+}
+.brandWidth{
+    width: 20%;
+}
+.bloc-section{
+    background-color:#182642;
+}
+.blocHeading{
+    margin-left:10%;
+    color: white;;
+}
+#search{
+    width: 37%;
+}
+.jobTitle{
+    position: relative; 
+}
+.jobTitle i{
+    position: absolute; 
+    left: 2%; 
+    top: 25%; 
+    color: gray;
+    font-size: 150%;            
+}
+.jobTitle p i{
+    left:90%; 
+    top: 15%; 
+    color: #182642;
+    font-size: 200%;
+}
+.searchButton {
+    background-color:#09A0DB;
+    padding: 15% 70% 15% 70%;   
+  }
+  .filterHr{ 
+    width: 90%;
+}
+.button{
+    cursor: pointer;
+}
+.toggleButton{
+    height: 10%;
+    cursor: pointer;
+}
+#jobTypeHeading{
+    display: block;
+}
+#categoryHeading{
+    display: block;
+}
+#plusButton{
+    display: none;
+}
+#plusButtonForJobType{
+    display: none;
+}
+#plusButtonForCategory{
+    display: none;
+}
+.signIn{
+    color: #fdb816;;
+}
